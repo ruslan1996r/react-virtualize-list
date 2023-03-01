@@ -1,0 +1,22 @@
+.App {
+ padding: 0 30px;
+}
+
+.container {
+ overflow-y: scroll;
+ padding: 0 20px;
+ border: 1px solid;
+}
+
+.element {
+ border-bottom: 1px solid;
+}
+
+.element div {
+ display: flex;
+ justify-content: space-between;
+}
+
+.columns {
+ display: flex;
+}
